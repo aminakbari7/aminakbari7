@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **laravel and ML**
 
-- 💬 Ask me about **Laravel & Ml**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
