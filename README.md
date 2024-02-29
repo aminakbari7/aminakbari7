@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amin Akbari</h1>
 <h3 align="center">A passionate AI & Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminakbari7&label=Profile%20views&color=0e75b6&style=flat" alt="aminakbari7" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminakbari7" alt="aminakbari7" /></a> </p>
 
@@ -18,7 +18,7 @@
 <p align="center"><img   src="https://github-readme-streak-stats.herokuapp.com/?user=aminakbari7&theme=vue-dark&hide_border=true" alt="aminakbari7" />
   <img   src="https://github-readme-stats.vercel.app/api?username=aminakbari7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminakbari7&label=Profile%20views&color=0e75b6&style=flat" alt="aminakbari7" /> </p>
 
 
 
