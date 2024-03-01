@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amin Akbari</h1>
-<h3 align="center">A passionate AI & Web developer</h3>
+<h3 align="center">A passionate ML & Web developer</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminakbari7" alt="aminakbari7" /></a> </p>
