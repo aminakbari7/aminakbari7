@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,dotnet,laravel,php,bootstrap,css,html,js,linux,ubuntu,mysql,sql,sqlite,py,sklearn,tensorflow,pytorch,opencv" />
+    <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,dotnet,laravel,blade,livewire,php,bootstrap,css,html,js,linux,ubuntu,mysql,sql,sqlite,py,sklearn,tensorflow,pytorch,opencv" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminakbari7&show_icons=true&locale=en&layout=compact" alt="aminakbari7" /></p>
