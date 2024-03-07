@@ -3,27 +3,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,
-	cs,
-	cpp,
-	dotnet,
-	laravel,
-	php,
-	bootstrap,
-	css,
-	html,
-	js,
-	linux,
-	ubuntu,
-	mysql,
-	sql,
-	sqlite,
-	py,
-	sklearn,
-	tensorflow,
-	pytorch,
-	opencv,
-	" />
+    <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,dotnet,laravel,php,bootstrap,css,html,js,linux,ubuntu,mysql,sql,sqlite,py,sklearn,tensorflow,pytorch,opencv" />
   </a>
 </p>
 
