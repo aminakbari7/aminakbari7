@@ -1,5 +1,5 @@
 - 💬 Ask me about Laravel & Ml
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminakbari7" alt="aminakbari7" /></a> </p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,dotnet,laravel,php,bootstrap,alpinejs,jquery,nodejs,npm,css,html,js,linux,ubuntu,mysql,sqlite,py,sklearn,tensorflow,pytorch,opencv" />
